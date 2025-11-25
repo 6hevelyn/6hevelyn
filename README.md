@@ -1,20 +1,20 @@
 ### Olá, eu sou a Hevelyn! 👋
 
 🎮 Criadora de mundos e histórias — atualmente desenvolvendo meu primeiro jogo, em busca de um planeta chamado **Aeloria**  
-🛠️ Aprendendo sobre desenvolvimento de jogos, programação e design gráfico  
+🛠️ Aprendendo sobre desenvolvimento de jogos, programação e ciência de dados
 📚 Estudante dedicada, com paixão por comunicação, criatividade e inovação  
 🚀 Sempre pronta para aprender coisas novas e transformar ideias em realidade
 
 <h1 align="center">Hevelyn Fernanda</h1>
-<p align="center">🌌 Desenvolvedora em formação | Criadora de Zoe e Aeloria 🚀</p>
+<p align="center">🌌 Desenvolvedora em inicio de carreira | Criadora de Zoe e Aeloria 🚀</p>
 
 ---
 
 ### 👩‍💻 Sobre mim
 
-Me chamo **Hevelyn Fernanda**, tenho 18 anos e sou apaixonada por tecnologia e inovação.  
-Atualmente estou desenvolvendo meu primeiro jogo, uma jornada em busca de um planeta chamado **Aeloria**.  
-Amo aprender coisas novas e estou explorando o mundo do desenvolvimento, design e programação.
+Me chamo **Hevelyn Fernanda**, tenho 19 anos e sou apaixonada por tecnologia e inovação.  
+Atualmente estou desenvolvendo meu primeiro jogo uma jornada em busca de um planeta chamado **Aeloria**.
+Além de projetos na área de dados. Amo aprender coisas novas e estou explorando o mundo do desenvolvimento, jogos e programação.
 
 ---
 
@@ -24,6 +24,7 @@ Amo aprender coisas novas e estou explorando o mundo do desenvolvimento, design 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </div>
 
 ---
